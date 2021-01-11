@@ -1,0 +1,42 @@
+# compiled output
+/nest-demo/dist
+/nest-demo/node_modules
+
+# Logs
+/nest-demo/logs
+/nest-demo/*.log
+/nest-demo/npm-debug.log*
+/nest-demo/yarn-debug.log*
+/nest-demo/yarn-error.log*
+/nest-demo/lerna-debug.log*
+
+# OS
+/nest-demo/.DS_Store
+
+# Tests
+/nest-demo/coverage
+/nest-demo/.nyc_output
+
+# IDEs and editors
+/nest-demo/.idea
+/nest-demo/.project
+/nest-demo/.classpath
+/nest-demo/.c9/
+/nest-demo/*.launch
+/nest-demo/.settings/
+/nest-demo/*.sublime-workspace
+
+# IDE - VSCode
+/nest-demo/.vscode/*
+/nest-demo/!.vscode/settings.json
+/nest-demo/!.vscode/tasks.json
+/nest-demo/!.vscode/launch.json
+/nest-demo/!.vscode/extensions.json
+
+
+/typeorm-demo/.idea/
+/typeorm-demo/.vscode/
+/typeorm-demo/node_modules/
+/typeorm-demo/build/
+/typeorm-demo/tmp/
+/typeorm-demo/temp/
